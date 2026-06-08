@@ -5,7 +5,7 @@
 
 Adafruit_MPU6050 mpu;
 
-#define BUZZER_PIN 13  // Pin Positif Buzzer
+#define BUZZER_PIN 13  
 
 const float ANGULAR_THRESHOLD = 20.0; 
 
